@@ -1,4 +1,7 @@
-## *Olá, pode me chamar de Gui* 😄 
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, pode me chamar de Gui</h1>
+<h3 align="center">A programação reascendeu a minha gana de vencer.</h3>
+
+
 
 <a href="https://www.linkedin.com/in/guiralmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
