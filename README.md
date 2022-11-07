@@ -1,5 +1,6 @@
-## *Olá, pode me chamar de Gui* 😄
+## *Olá, pode me chamar de Gui* 😄 
 
+<a href="https://www.linkedin.com/in/guiralmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 🖥️ Tenho 26 anos, já atuei como advogado e venho amando minha transição de carreira.
 
@@ -11,7 +12,6 @@
 
 ⚡ Estou disposto a aprender uma nova linguagem ou tecnologia, mãos à obra.
 
-📫 Pode me contactar em guilherme1321996@gmail.com, comunicação é a 🗝️.
 
 
 
@@ -35,6 +35,5 @@
 <div>
    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:guilherme.dev.almeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guiralmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/sktfps" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
     </div>
