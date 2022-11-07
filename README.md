@@ -1,3 +1,20 @@
+## *Olá, pode me chamar de Gui* 😄
+
+
+🖥️ Tenho 26 anos, já atuei como advogado e venho amando minha transição de carreira.
+
+🧊 Integro a turma 10 da Cubos Academy, onde estudo diariamente.
+
+👨‍💻 Sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas.
+
+👁️ Meu foco vem sendo apliar meus conhecimentos em, HTML/CSS, JS, REACT, NODE, SQL.
+
+⚡ Estou disposto a aprender uma nova linguagem ou tecnologia, mãos à obra.
+
+📫 Pode me contactar em guilherme1321996@gmail.com, comunicação é a 🗝️.
+
+
+
 <div>  
     <a href="https://github.com/guilhermealmeidadeveloper">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlmeidaDeveloper&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
