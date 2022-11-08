@@ -11,7 +11,7 @@
 
 👨‍💻 Sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas.
 
-👁️ Meu foco vem sendo apliar meus conhecimentos em, HTML/CSS, JS, REACT, NODE, SQL.
+👁️ Meu foco vem sendo ampliar meus conhecimentos em, HTML/CSS, JS, REACT, NODE, SQL.
 
 ⚡ Estou disposto a aprender uma nova linguagem ou tecnologia, mãos à obra.
 
