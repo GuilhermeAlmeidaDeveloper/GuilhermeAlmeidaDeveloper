@@ -10,7 +10,7 @@
 function Guilherme {
   this.name = "Guilherme Almeida"
   this.dream = "Be a Full-stack Developer"
-  this.timeExperience = "4 months"
+  this.timeExperience = "2 months"
   this.mindSet = "baby steps everyday"
 }
 ```
