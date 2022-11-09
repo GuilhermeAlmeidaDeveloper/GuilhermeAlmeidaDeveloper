@@ -17,7 +17,7 @@ function Guilherme {
 
 🖥️ Tenho 26 anos, já atuei como advogado e venho amando minha transição de carreira. <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-🧊 Integro a turma 10 da Cubos Academy, onde estudo diariamente.
+🧊 Integro a 10ª turma da Cubos Academy, onde estudo diariamente.
 
 👨‍💻 Sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas.  
 
