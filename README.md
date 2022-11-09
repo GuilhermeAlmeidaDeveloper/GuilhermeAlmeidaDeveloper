@@ -9,7 +9,7 @@
 ```javascript
 function Guilherme {
   this.name = "Guilherme Almeida"
-  this.dream = "Be a Full-stack Developer"
+  this.dream = "Be a Senior Developer"
   this.timeExperience = "2 months"
   this.mindSet = "baby steps everyday"
 }
