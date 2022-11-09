@@ -23,7 +23,7 @@ function Guilherme {
 
 👁️ Meu foco vem sendo ampliar meus conhecimentos em, HTML/CSS, JS, REACT, NODE, SQL.
 
-⚡ Estou disposto a aprender uma nova linguagem ou tecnologia, mãos à obra.
+⚡ Estou disposto a aprender uma nova linguagem ou tecnologia, pode contar com as Power(soft) skills.
 
 
 
