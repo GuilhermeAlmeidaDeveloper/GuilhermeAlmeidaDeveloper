@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, pode me chamar de Gui</h1>
-<h3 align="center">A programação reascendeu a minha gana de vencer.</h3>
+<h3 align="center"></h3>
 
 
 
