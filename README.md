@@ -19,9 +19,7 @@ function Guilherme {
 
 🧊 Integro a 10ª turma da Cubos Academy, onde estudo diariamente.
 
-👨‍💻 Sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas.  
-
-👁️ Meu foco vem sendo ampliar meus conhecimentos em HTML/CSS, JS, REACT, NODE, SQL.
+👨‍💻 Sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas. 
 
 ⚡ Estou disposto a aprender uma nova linguagem ou tecnologia, pode contar com as Power(soft) skills.
 
