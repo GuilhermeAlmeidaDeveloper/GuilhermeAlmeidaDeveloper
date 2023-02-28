@@ -7,11 +7,12 @@
 
 
 ```javascript
-function Guilherme () {
-  this.name = "Guilherme Almeida"
-  this.dream = "Be a Senior Developer"
-  this.timeExperience = "4 months"
-  this.mindSet = "baby steps everyday"
+const guilherme = {
+  name = "Guilherme Almeida"
+  dream = "Be a Senior Developer"
+  timeExperience = "5 months"
+  mindSet = "baby steps everyday"
+  status: "Always available to talk"
 }
 ```
 
