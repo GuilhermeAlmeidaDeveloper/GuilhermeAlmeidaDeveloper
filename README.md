@@ -7,7 +7,7 @@
 
 
 ```javascript
-function Guilherme {
+function Guilherme () {
   this.name = "Guilherme Almeida"
   this.dream = "Be a Senior Developer"
   this.timeExperience = "4 months"
