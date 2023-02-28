@@ -8,10 +8,10 @@
 
 ```javascript
 const guilherme = {
-  name: "Guilherme Almeida"
-  dream: "Be a Senior Developer"
-  timeExperience: "5 months"
-  mindSet: "baby steps everyday"
+  name: "Guilherme Almeida",
+  dream: "Be a Senior Developer",
+  timeExperience: "5 months",
+  mindSet: "baby steps everyday",
   status: "Always available to talk"
 }
 ```
