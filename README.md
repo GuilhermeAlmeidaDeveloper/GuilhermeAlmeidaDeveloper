@@ -11,7 +11,7 @@ const guilherme = {
   name: "Guilherme Almeida",
   dream: "Be a Senior Developer",
   timeExperience: "5 months",
-  mindSet: "baby steps everyday",
+  mindSet: "baby steps everyday // always coding",
   status: "Always available to talk"
 }
 ```
@@ -20,9 +20,8 @@ const guilherme = {
 
 🧊 Integro a 10ª turma da Cubos Academy, onde estudo diariamente.
 
-👨‍💻 Sou estudante do segundo semestre de Análise e Desenvolvimento de Sistemas. 
+👨‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas. 
 
-⚡ Estou disposto a aprender uma nova linguagem ou tecnologia, pode contar com as Power(soft) skills.
 
 
 
