@@ -11,16 +11,16 @@ const guilherme = {
   name: "Guilherme Almeida",
   dream: "Be a Senior Developer",
   timeExperience: "6 months",
-  mindSet: "baby steps everyday // always coding",
-  status: "Always available to talk"
+  mindSet: "always coding",
+  status: "Full-Stack developer in forming, available to talk"
 }
 ```
 
-🖥️ Tenho 26 anos, já atuei como advogado e venho amando minha transição de carreira. <img align="right" width="290" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+🖥️ 27 years old, former lawyer, looking for dev career transition <img align="right" width="290" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-🧊 Integro a 10ª turma da Cubos Academy, onde estudo diariamente.
+🧊 Cubos Academy student.
 
-👨‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas. 
+👨‍💻 Systems Analysis and Development student. 
 
 
 
@@ -38,14 +38,19 @@ const guilherme = {
     
    
 
-  <div style="display: inline_block"><br> Caminho a ser trilhado:
+  <div style="display: inline_block"><br> Path being trodden:
    <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Gui-Next" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NextJS-Dark.svg">
+    <img align="center" alt="Gui-Next" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg">
   <img align="center" alt="Gui-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gui-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+    
+    
   </div>
      
  ##    
