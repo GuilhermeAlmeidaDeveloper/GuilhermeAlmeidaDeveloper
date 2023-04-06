@@ -16,7 +16,7 @@ const guilherme = {
 }
 ```
 
-🖥️ 27 years old, former lawyer, looking for dev career transition <img align="right" width="290" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+🖥️ 27 years old, former lawyer, looking for dev career transition. <img align="right" width="290" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 🧊 Cubos Academy student.
 
