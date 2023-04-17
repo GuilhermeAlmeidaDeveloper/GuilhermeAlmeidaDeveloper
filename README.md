@@ -10,7 +10,7 @@
 const guilherme = {
   name: "Guilherme Almeida",
   dream: "Be a Senior Developer",
-  timeExperience: "6 months",
+  timeExperience: "7 months",
   mindSet: "always coding",
   status: "Full-Stack developer in forming, available to talk"
 }
